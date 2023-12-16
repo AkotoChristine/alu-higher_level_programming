@@ -1,2 +1,2 @@
 ## ORM WITH PYTHON
-Author: Joshua Alana
+Author: Christine
