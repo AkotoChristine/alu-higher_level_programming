@@ -1,3 +1,3 @@
 #!/usr/bin/node
-const myvar = 'javascript-warm_up';
-console.log(myvar);
+const myVar = 'javascript-warm_up';
+console.log(myVar);
